@@ -1,0 +1,35 @@
+body{
+    background-color: blue;
+}
+
+a{
+    color: yellow;
+}
+
+
+
+td{
+    font-size: 50px;
+    background-color:  #305b86;
+    border-radius: 100px;
+    text-align: center;
+    width: 0;
+    margin: 20px;
+    position: relative;
+    left: 630px;
+
+
+}
+
+header{
+    text-align: center;
+}
+
+div{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
